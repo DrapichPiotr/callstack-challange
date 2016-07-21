@@ -1,0 +1,14 @@
+.inputWrapper {
+  width: 100%;
+  text-align: center;
+  margin: 4em 0;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #353535;
+}
+
+.default {
+}

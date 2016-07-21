@@ -1,0 +1,11 @@
+export const LOAD_TRACKS = 'spotifyChalange/App/LOAD_REPOS';
+export const LOAD_TRACKS_SUCCESS = 'spotifyChalange/App/LOAD_REPOS_SUCCESS';
+export const LOAD_TRACKS_ERROR = 'spotifyChalange/App/LOAD_REPOS_ERROR';
+export const TOGGLE_SEARCH_LIST = 'spotifyChalange/App/HIDE_SEARCH_LIST';
+export const ADD_TRACK_TO_PLAYLIST = 'spotifyChalange/App/ADD_TRACK_TO_PLAYLIST';
+export const UPVOTE_TRACK = 'spotifyChalange/App/UPVOTE_TRACK';
+export const DOWNVOTE_TRACK = 'spotifyChalange/App/DOWNVOTE_TRACK';
+export const PLAY_TRACK = 'spotifyChalange/App/PLAY_TRACK';
+export const STOP_TRACK = 'spotifyChalange/App/STOP_TRACK';
+export const NEXT_TRACK = 'spotifyChalange/App/NEXT_TRACK';
+export const END_TRACK = 'spotifyChalange/App/END_TRACK';
